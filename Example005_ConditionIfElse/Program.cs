@@ -10,3 +10,4 @@ else
     Console.Write("Привет, ");
     Console.WriteLine(username);
 }
+//приветствие с условием по имени
