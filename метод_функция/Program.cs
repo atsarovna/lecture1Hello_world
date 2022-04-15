@@ -22,6 +22,7 @@ int c3 = 33;
 
 int max = Max(Max(a1, b1, c1), Max(a2, b2, c2), Max(a3, b3, c3)); // тоже самое,что выше
 
-Console.WriteLine(max1);
+Console.WriteLine(max);
 
 //метод или функция поиска максимального
+
