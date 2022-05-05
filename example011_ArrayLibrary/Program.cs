@@ -4,7 +4,7 @@
     int index = 0;
     while (index < length)
     {
-        collection[index] = new Random() .Next(1, 10); //диапозон целых чисел 1-10 - .Next(1ю 10) 
+        collection[index] = new Random() .Next(1, 10); //диапозон целых чисел 1-10 - .Next(1, 10) 
         index++;
     }
 }

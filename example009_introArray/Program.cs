@@ -17,3 +17,4 @@ int result = Max(                    //функция
 
 Console.WriteLine(result);
 //поиск максимума из 9
+
